@@ -166,7 +166,7 @@ Node types are defined in `src/util/nodeArrays.js` with the following structure:
 
 ## 📝 License
 
-MIT License © Roberto D'Amico
+MIT License © Mattskwara
 
 ## 🐛 Issues
 
